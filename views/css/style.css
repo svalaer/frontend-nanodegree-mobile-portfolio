@@ -29,6 +29,10 @@ form {
   font-weight: 800;
 }
 
+#pizza1 {
+  width: 33.33%;
+}
+
 .mover {
   position: fixed;
   width: 256px;

@@ -1,3 +1,10 @@
+## Changes
+1. Minified js, html, and css using gulp
+2. Compressed images using gulp
+3. Specified image sizes to speed up image loading
+4. Moved all styling into css from html
+5. Adding cache-control
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
