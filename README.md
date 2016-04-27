@@ -1,9 +1,18 @@
+## To build this project locally you will need to do the following
+1. cd into the root directory of the project
+2. Run `npm install`
+3. Run `gulp default`
+4. This will build the dist directory locally on your machine
 ## Changes
 1. Minified js, html, and css using gulp
 2. Compressed images using gulp
 3. Specified image sizes to speed up image loading
 4. Moved all styling into css from html
 5. Adding cache-control
+6. Created pizzaSizeSliderLabel variable to store pizza size cases. More performance oriented then making the three separate dom queries. Similar optimizations were made in other places included the variable movingPizzasLabel
+7. Used http://www.html5rocks.com/en/tutorials/speed/animations/ as an example for debouncing the onScroll animation
+8. screenWidth and screenHeight variables are. injected into the pizzaTotals function. There will only be as many pizzas generated as can be rendered on the screen
+9. Set image width in both css,html, and js to speed rendering
 
 ## Website Performance Optimization portfolio project
 
