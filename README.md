@@ -3,6 +3,8 @@
 2. Run `npm install`
 3. Run `gulp default`
 4. This will build the dist directory locally on your machine
+5. Open dist/views/pizza.html
+
 ## Changes
 1. Minified js, html, and css using gulp
 2. Compressed images using gulp
