@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="gulp" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/lib/completion.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/lib/taskTree.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/bin/gulp.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/gulp/index.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/lib/completion.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/lib/taskTree.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/bin/gulp.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/gulp/index.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

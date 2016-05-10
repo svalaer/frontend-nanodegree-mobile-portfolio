@@ -1,0 +1,41 @@
+{
+  "name": "frontend-nanodegree-mobile-portfolio",
+  "version": "0.0.1",
+  "description": "Mobile optimization for frontened app",
+  "main": "views/js/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svalaer/frontend-nanodegree-mobile-portfolio.git"
+  },
+  "keywords": [
+    "optimization"
+  ],
+  "author": "Sullivan Valaer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svalaer/frontend-nanodegree-mobile-portfolio/issues"
+  },
+  "homepage": "https://github.com/svalaer/frontend-nanodegree-mobile-portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.6",
+    "gulp-html-replace": "^1.5.5",
+    "gulp-htmlmin": "^1.0.0",
+    "gulp-image-resize": "^0.7.1",
+    "gulp-imagemin": "^2.1.0",
+    "gulp-inline": "0.0.8",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-minify-inline": "^0.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.1.0"
+  }
+}
